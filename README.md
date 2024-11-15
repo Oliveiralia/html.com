@@ -1,0 +1,168 @@
+<!doctype html>
+<html
+<body><header>ALURANETA</header>
+
+
+
+    <h1>Tudo sobre o Planeta Vermelho</h1>  
+    
+    <p>Marte é o quarto planeta mais próximo do Sol e o segundo menor planeta do sistema solar, depois de Mercúrio, sendo consideravelmente menor que o planeta Terra.
+    
+        Apresenta uma coloração avermelhada, pela presença de óxido de ferro na sua superfície. Por isso, recebeu o nome de Marte, em homenagem ao deus romano da guerra.
+        
+        Possui duas pequenas luas de formato irregular: Fobos (medo) e Deimos (pânico). Seus nomes derivam da mitologia grega e representam os filhos de Ares (Marte) e Afrodite (Vênus).
+        
+        Marte é um dos planetas mais estudados do sistema solar. Podendo ser visto da Terra a olho nu, ou seja, sem auxílio de um telescópio.
+        
+        A duração do dia em Marte aproxima-se do planeta Terra, com 24 horas e 37 minutos, embora o ano marciano tenha duração de 687 dias terrestres.
+        Marte é o quarto planeta mais próximo do Sol e o segundo menor planeta do sistema solar, depois de Mercúrio, sendo consideravelmente menor que o planeta Terra.
+    
+    Apresenta uma coloração avermelhada, pela presença de óxido de ferro na sua superfície. Por isso, recebeu o nome de Marte, em homenagem ao deus romano da guerra.
+    
+    Possui duas pequenas luas de formato irregular: Fobos (medo) e Deimos (pânico). Seus nomes derivam da mitologia grega e representam os filhos de Ares (Marte) e Afrodite (Vênus).
+    
+    Marte é um dos planetas mais estudados do sistema solar. Podendo ser visto da Terra a olho nu, ou seja, sem auxílio de um telescópio.
+    
+    A duração do dia em Marte aproxima-se do planeta Terra, com 24 horas e 37 minutos, embora o ano marciano tenha duração de 687 dias terrestres.
+    </p>
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/_O47N1cGybA?si=AmZXNR4SkST3aV4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+    
+    <h1>Características de Marte
+    </h1>
+    
+    <p> A sua temperatura máxima é de aproximadamente 25°C, com uma média de -60°C, a qual pode chegar até cerca de -140°C durante a noite.
+        Sendo um planeta terrestre (rochoso), suas camadas são compostas por atmosfera, crosta, manto e núcleo. A maioria das rochas na superfície é formada por basalto.
+    
+    Sua atmosfera é muito fina e é composta essencialmente de gás carbônico, embora exista em menor quantidade o nitrogênio, oxigênio, argônio, dentre outros gases.
+    
+    Quarto planeta do sistema solar, sua distância média ao Sol é de 228 milhões de km.
+    
+    Possui dois satélites naturais, que são as "duas luas de Marte". Esses satélites foram descobertos em 1877 e muitos cientistas acreditam que podem ter sido asteroides capturados pela gravidade de Marte.
+    </p>
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/zkSn1uIoYus?si=Iq9VJo6QfzpAKEKx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+    
+    
+    <h1>Vida em Marte</h1>
+    
+    <p>Conhecido desde a antiguidade, a partir do século XIX Marte tem despertado maior atenção entre astrônomos e cientistas.
+        Uma vez que o planeta vermelho se assemelha à Terra em diversos aspectos, tal como as estações do ano, relevo (vales, dunas, planícies, planaltos, cânions, etc.) e aproximação do dia terrestre (quase 24 h), há pesquisas que apostam na existência de vida no planeta.
+        
+        No entanto, o fato de ser envolvido numa atmosfera fina e bastante rarefeita reforça a impossibilidade de condições de vida no planeta.
+        
+        O que despertou ainda mais o interesse dos cientistas na atualidade foi um estudo realizado no ano 2000 pela NASA (Administração Nacional da Aeronáutica e do Espaço).
+        
+        Nesse estudo, foi confirmada a existência de processos erosivos no planeta, o que evoca a possibilidade da existência de água e, consequentemente, de vida em Marte.
+        
+        Embora tenham descoberto esses indícios, ainda não ficou comprovada a existência de outros seres no planeta. No entanto, isso não exclui a possibilidade de o mesmo ter sido habitado num passado remoto.
+        </p>
+    
+    
+        <h1>Afinal pode mesmo existir vida em Marte?</h1>
+    <p>O planeta vermelho poderá ter sido, em tempos, o lar de uma enorme quantidade de micróbios. Novos estudos sugerem a possibilidade de alguns micróbios resistentes terem conseguido sobreviver em estado congelado no subsolo.</p>
+    
+    <p>Há cerca de 3.500 milhões de anos, dois dos planetas que orbitavam o Sol poderiam ter biosferas de dimensões semelhantes. Um deles, a Terra evoluiu de uma maneira que permitiu que a vida florescesse e se dividisse em inúmeras formas mais belas. O outro mundo, Marte, seguiu um caminho diferente.</p>
+    
+    <p>Actualmente, a superfície de Marte é hostil à vida tal como a conhecemos. Porém, segundo esta história científica, o planeta poderá em tempos ter alojado uma rica abundância de micróbios. Habitando o submundo salobro do planeta e protegidos da radiação letal que banha a superfície, estes organismos poderão ter crescido em recantos e fissuras, multiplicando-se até a sua massa colectiva rivalizar com o grande tesouro de vida da Terra. Denominados metanógenos, os micróbios de Marte teriam inalado hidrogénio e dióxido de carbono da atmosfera e exalado gás metano – e, numa reviravolta, tornaram-se os seus piores inimigos.
+    </p>
+    
+    <p>Ao longo do tempo, o seu apetite crescente e insaciável teria privado a atmosfera marciana de hidrogénio – um potente gás com efeito de estufa nos primeiros tempos do planeta – acabando por lançar um frio mortal sobre Marte e levando as populações microbianas a refugiarem-se em recantos mais profundos e quentes. Não sabemos durante quanto tempo estes micróbios sobreviveram nas profundezas. É possível que tenham sido apenas um lampejo de vida num mundo estéril.
+    </p>
+    
+    <p>“Talvez a extinção seja o estado cósmico natural da vida no universo”, diz Boris Sauterey, do Institut de Biologie de l’Ecole Normale Supérieure, em Paris. “Não é o processo do aparecimento da vida que é limitador, mas sim a capacidade da vida para se manter a si própria”.
+    </p>
+    
+    <p>No entanto, talvez mais de 9 metros abaixo da superfície e envoltos no gelo, estes organismos unicelulares tenham atingido um estado de dormência, uma espécie de torpor criopreservado, prontos para ressuscitarem quando surgissem condições mais favoráveis à vida.
+    </p>
+    
+    <p>O interior de Marte pode não ser tão estéril como a sua superfície. Poderá alojar um mundo de organismos alienígenas capazes de esperar milhares de anos entre cada ciclo dos seus motores metabólicos.
+    </p>
+    
+    <p>Este cenário pode parecer rebuscado, mas resultados recentemente obtidos por cientistas que criam modelos da habitabilidade de Marte do passado e estudam a resistência dos micróbios em laboratório – e sob a superfície do nosso próprio planeta – apontam todos na mesma direcção: é improvável, mas possível, que tenha evoluído vida em Marte – e que ainda exista. E os cientistas podem encontrar sinais dessa vida quando meteoros colidem com Marte e escavam camadas de gelo enterradas ou quando novas naves espaciais chegam para sondar este reino subterrâneo.</p>
+            
+    <p>“Não usaria o tempo passado para falar sobre a possibilidade de um micróbio marciano vencer as probabilidades e sobreviver durante um período prolongado”, afirma Amy Williams da Universidade da Florida. “Não me arrisco a adivinhar se ainda lá estará hoje, mas, enquanto astrobióloga, espero que sim e que esse conhecimento possa contribuir para compreendermos melhor o nosso lugar no universo.”
+    </p>
+    
+    
+    
+    
+    
+    <h1>Um Marte temperado do passado
+            </h1>
+    <p>Seca e repleta de radiação, a superfície marciana tornaria difícil a sobrevivência até dos micróbios terrestres mais resistentes por mais do que um breve instante.</p>
+            
+    <p>Há milhares de milhões de anos, porém, o planeta era mais quente e tinha mais água. Não sabemos ao certo durante quanto tempo estas condições temperadas existiram ou exactamente quanta água havia, mas é evidente que o Marte do passado continha todos os ingredientes necessários para a vida tal como a conhecemos, incluindo água, compostos orgânicos à base de carbono e reacções químicas activas, geradoras de energia.
+    </p>
+    
+    <p>Como descrito num artigo publicado na revista Nature Astronomy, Sauterey e os colegas criaram múltiplos modelos de Marte, com diferentes atmosferas, temperaturas à superfície e graus de salinidade – que têm diferentes pontos de congelação. Presumiram que quaisquer organismos que povoassem o planeta seriam o mesmo tipo de micróbios consumidores de hidrogénio e produtores de metano que povoaram a Terra primordial - e presumiram que esses micróbios estariam restritos a ambientes pelo menos 3 metros abaixo da superfície marciana, onde abundam as soluções salinas capazes de sustentar vida abundam e não a radiação.
+    </p>
+    
+    <p>A equipa descobriu que tanto a temperatura à superfície como o tipo de salmoura desempenham um papel essencial na probabilidade de habitabilidade. Nas simulações da equipa, os ambientes habitáveis abaixo da superfície tinham menos probabilidades de existir num planeta mais frio e com maior cobertura de gelo porque os glaciares limitam a quantidade de hidrogénio capaz de atingir o subsolo para alimentar os metabolismos alienígenas. No entanto, num mundo mais quente e com menos gelo – no seu estado mais propício à vida – Sauterey descobriu que havia uma hipótese de, no mínimo, 50% de parcelas subterrâneas pouco abaixo da superfície terem sido habitáveis há milhares de milhões de anos.</p>
+    
+    <p>Foi por isso que Sauterey, ecologista computacional, decidiu ver quão habitável Marte poderia ter sido nos seus primeiros tempos. Previamente, a sua equipa desenvolvera modelos para caracterizar a maneira como as primeiras formas de vida da Terra influenciaram as condições à superfície do planeta há cerca de 3500 milhões de anos, quando Marte também poderia ser habitável.</p>
+    
+    <p>“O nosso resultado diz que, se não estivesse completamente coberto de gelo, Marte seria provavelmente habitável”, afirma. “Isso não significa provavelmente habitado, porque não sabemos como se passa da habitabilidade à habitação.”
+    </p>
+    
+    <p>A equipa também cartografou os locais com mais probabilidades de serem habitáveis abaixo da superfície do planeta e concluiu que Hellas Planitia — uma vasta bacia de impacto no hemisfério sul do planeta - poderia suportar vida em praticamente todas as circunstâncias. Isidis Planitia e a vizinha Cratera Jezero, onde o rover Perseverance, da NASA, está actualmente a recolher amostras para trazer para a Terra, também se encontram entre os locais mais habitáveis.</p>
+           
+    <p>Sauterey e equipa simularam como os incipientes metanógenos poderão ter influenciado o seu ambiente. Ficaram surpreendidos por descobrirem que a vida em Marte poderia ter sido uma casualidade da sua própria existência, drenando da atmosfera o hidrogénio que aquecia o planeta. A Terra escapou a esse destino por ter uma mistura diferente de gases na sua atmosfera.</p>
+    
+    <p>“De certo modo, esperávamos descobrir que Marte era habitável por este tipo de organismos”, diz Sauterey. “Mas não esperávamos encontrar uma influência que se opusesse à vida na habitabilidade planetária – que, no caso de esse tipo de vida ter existido, tivesse deteriorado a habitabilidade do planeta.”
+    </p>
+    
+    <p>Sauterey e os seus colegas sugerem que, à medida que alteravam o clima do planeta, estes fatídicos micróbios marcianos poderão ter-se deslocado para locais cada vez mais profundos do subsolo, onde o ambiente é mais quente e hospitaleiro, mas menos rico em energia.</p>
+    
+    <p>Jackie Goordial, microbióloga da Universidade de Guelph, em Ontário, que estuda micróbios no solo permanentemente gelado dos pólos da Terra, diz que a existência de vida é ainda mais provável do que os modelos sugerem, pois Sauterey e os seus colegas utilizaram definições de habitabilidade um pouco conservadoras.
+    </p>
+    
+    <p>Por exemplo, a equipa definiu -20 graus Celsius como a temperatura mais baixa para a sobrevivência da vida. No entanto, Goordial diz que os cientistas já viram micróbios sobreviver a temperaturas mais frias na Terra. A equipa de Sauterey também presumiu que a cobertura de gelo limitaria a extensão dos ambientes habitáveis ao limitar o acesso aos gases atmosféricos. Contudo, na Terra, os micróbios podem alimentar-se de hidrogénio produzido no subsolo, o que sugere que os micróbios marcianos poderiam existir em pontos mais profundos do que os assumidos pelas simulações.
+    </p>
+    
+    <p>“Há toda uma comunidade de cientistas que não fazem mais nada para além de examinarem formas de vida privadas de atmosferas - e elas existem”, diz Goordial. “É vida estranha. É muito interessante e aplica-se certamente a Marte.”
+    </p>
+    
+    <h1>Micróbios resistentes
+            </h1>
+    
+            <p>
+                Outra equipa de investigadores abordou a questão da vida marciana de uma maneira diferente: observando durante quanto tempo os micróbios conseguiam sobreviver em condições que simulassem os tais cerca de 9 metros abaixo da superfície. A essa profundidade, o nível de radiação solar e cósmica é aproximadamente o mesmo existente à superfície da Terra – mas os solos estão congelados e secos.</p>
+    
+                <p>A equipa decidiu estudar uma bactéria chamada Deinococcus radiodurans — um dos extremófilos mais famosos, conhecido pela sua capacidade de suportar enormes doses de radiação. Presente em reactores nucleares e em solos da Antárctida, a D. radiodurans sobrevive reparando rapidamente os danos causados ao seu ADN.
+                </p>
+    
+                <p>Uma microfotografia de varrimento electrónico colorida (SEM) da Deinococcus radiodurans, uma bactéria altamente resistente a condições ambientais extremas. Se existir vida em Marte, poderá ser semelhante a este tipo de microrganismo. Microfotografia de Dennis Kunkel Microscopy, Science Photo Library.</p>
+    
+                <p>“O facto de termos estas coisas na Terra – o facto de a radiodurans estar presente em reactores nucleares - é insano. Nem sequer tínhamos [reactores] até há 100 anos”, diz Williams, da Universidade da Florida, que não participou no novo estudo.</p>
+    
+                <p>Numa cultura líquida, a D. radiodurans pode sobreviver a uma dose de aproximadamente 25.000 Gray (Gy). Em contraste, bastam 5 Gy para matar seres humanos e a maioria dos outros animais vertebrados.</p>
+    
+                <p>A equipa que estuda a D. radiodurans descobriu uma forma de tornar a criatura ainda mais extrema, descrevendo a experiência num estudo publicado na revista Astrobiology. Primeiro, secaram uma cultura de D. radiodurans. Em seguida, congelaram-na, imitando o estado frio e desidratado que existe no subsolo marciano – o que fez a cultura transitar para um estado de dormência. Quando estimularam a bactéria adormecida com doses crescentes de radiação, descobriram que as células em animação suspensa conseguiam suportar uma dose de aproximadamente 140.000 Gy.
+    
+                    “É um número verdadeiramente colossal. É astronómico”, diz o responsável pela investigação Michael Daly, da Uniformed Services University, em Maryland. “É de esperar que os microrganismos que evoluíram em Marte sejam tão resistentes – ou até mais resistentes– à radiação do que a D. radiodurans, que evoluiu num planeta relativamente ameno chamado Terra.”</p>
+    
+                    <p>A equipa repetiu a mesma experiência com cinco micróbios menos robustos, incluindo o E. coli e o Saccharomyces cerevisiae (levedura de cerveja), e descobriram que a desidratação e a congelação também aumentavam a tolerância das células à radiação – embora ainda não conseguissem tolerar nada parecido com o nível de exposição da D. radiodurans.
+    
+                        Quando Daly e os seus colegas calcularam durante quanto tempo uma única célula de D. radiodurans poderia sobreviver cerca de 9 metros abaixo da superfície de Marte, depararam-se com um número impressionante: seriam necessários quase 280 milhões de anos para destruir a célula. Esse número aplica-se a células em estado dormente, mas ao longo do tempo múltiplos eventos de aquecimento – como quedas de meteoros – poderão ter transformado temporariamente o ambiente abaixo da superfície e reanimado as células, dando-lhes oportunidade de ressuscitarem e de se reproduzirem.</p>
+    
+                        <p>Os investigadores observaram ciclos de vida similarmente extremos em micróbios enterrados nas profundezas da Terra e os cientistas têm conseguido recuperar micróbios viáveis de amostras de solo permanentemente gelado ancestral. Modelos de formas de vida existentes nos sedimentos do oceano profundo também sugerem a possibilidade de os organismos conseguirem sobreviver com uma quantidade mínima de energia, diz Goordial.</p>
+    
+                        <p>“Achamos que estes micróbios existem num torpor metabólico. Talvez as suas células só se reproduzam uma vez a cada 10.000 anos”, afirma. “Vemos isto na Terra embora seja muito difícil estudá-lo directamente… poderá algo semelhante estar a acontecer sob a superfície de Marte?”</p>
+    
+                        <p>A existirem, os micróbios estarão enterrados demasiado fundo, fora do alcance das tecnologias actuais. O rover Perseverance abre buracos com cerca de 10 cm de profundidade. Daly e os seus colegas calculam tempos de sobrevivência para micróbios existentes a profundidades 100 vezes superiores.
+    
+                            No futuro, os cientistas esperam levar naves espaciais com melhores capacidades de perfuração até Marte. Uma dessas missões, a Mars Life Explorer, foi recentemente classificada como uma das maiores prioridades da ciência planetária dos E.U.A. para a próxima década - embora não deva ser lançada antes da década de 2030, na melhor das hipóteses.
+                            
+                            Ou talvez os cientistas tenham sorte mais cedo. O impacto recente de um meteorito detectado pelo módulo de aterragem InSight, da NASA, e pela Mars Reconnaissance Orbiter, abriu um buraco na crosta do planeta e projectou grandes pedaço de gelo de água previamente enterrado sobre a superfície do planeta - e Daily diz que se trata exactamente do tipo de material no qual gostaria de procurar micróbios dormentes.</p>
+    
+                            <p>“Embora não espere algum dia ver vida a dirigir-se a um dos nossos veículos que estão em Marte”, diz Williams, “não quero menosprezar a capacidade que a vida tem para encontrar uma maneira de existir”.</p>
+    
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/pkzv01a6XpM?si=RIt6c10zPZv-BWxv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/sVY9TFiAq2Y?si=rzGiWX0rB7AcYUxd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+                         </body>
+                         </html>
